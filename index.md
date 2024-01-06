@@ -2,15 +2,13 @@
 layout: page
 ---
 
-# About Me
+# Weihao Chen
 
-<img src="https://weihaochen6.github.io//WeihaoChen.jpg" class="floatpic" width="360" height="480">
+<img src="https://weihaochen6.github.io/WeihaoChen.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Hello, I am a PhD candidate in the Department of Econometrics and Operation Research at Tilburg University. My research centers around **econometric theory** especially and its applications. Specifically, I am current working on dynamic panel data models, GMM estimation, model and moments selection, bootsrap methods.
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+Thank you for taking the time to visit my personal website and please feel free to contact me for Matlab codes or any other questions about my research projects. 
 
 ## Academic Background
 
