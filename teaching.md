@@ -3,16 +3,13 @@ layout: page
 permalink: /teaching/index.html
 title: Teaching
 ---
-
 ## Teaching
 
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($2000)<br>Only 12 undergraduates are selected each year.
-- Aug 2023：**FEPG Scholarship** ($1400)<br>One of the highest undergraduate awards at FZU.
-- May 2023：**XiamenAir Scholarship** ($600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth<br>
+- 2024/04 - 2024/04, TA, Corporate Entrepreneurship & Social and Environmental Entrepreneurship (Bachelor)
+- 2023/09 - 2023/12, TA, Econometrics 1 (Research Master)
+- 2023/04 - 2023/05, TA, Corporate Entrepreneurship & Social and Environmental Entrepreneurship (Bachelor)
+- 2022/09 - 2022/12, TA, Panel Data Analysis of Microeconomic Decisions (Master)
+- 2022/09 - 2022/12, TA, Econometrics 1 (Research Master)
+- 2022/04 -  2022/05, TA, Corporate Entrepreneurship & Social and Environmental Entrepreneurship (Bachelor)
+- 2021/09 - 2021/12, TA, Empirical Research in Business (Research Master)
+- 2021/09 -  2021/12, TA, Panel Data Analysis of Microeconomic Decisions (Master)
