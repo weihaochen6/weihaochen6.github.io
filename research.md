@@ -12,8 +12,8 @@ title: Research
 - with [Pavel Čížek](https://www.tilburguniversity.edu/staff/p-cizek).
 - [[pdf]](https://pure.uvt.nl/ws/portalfiles/portal/82271980/2023-028.pdf)
 
-## Working paper
+## Work in progress
 
-#### Adding variance-reducing controls
+#### Adding variance-reducing controls. 2024.
 
-- with [Otilia Boldea](https://sites.google.com/site/otiliaboldea/) [Pavel Čížek](https://www.tilburguniversity.edu/staff/p-cizek).
+- with [Otilia Boldea](https://sites.google.com/site/otiliaboldea/) and [Pavel Čížek](https://www.tilburguniversity.edu/staff/p-cizek).
