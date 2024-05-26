@@ -1,9 +1,16 @@
 ---
 layout: page
-
 ---
-Hello, I am a PhD candidate in the Department of Econometrics and Operation Research at Tilburg University. My research centers around econometric theory especially and its applications. Specifically, I am current working on dynamic panel data models, GMM estimation, model and moments selection and local projections.
+## Welcome to personal website !!!
 
-Thank you for taking the time to visit my personal website and please feel free to contact me for Matlab codes or any other questions about my research projects.
+I am a PhD candidate in the [Department of Econometrics &amp;OR](https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/eor "Department of Econometrics &amp;OR")  at [Tilburg University](https://www.tilburguniversity.edu/nl "Tilburg University"). I am supervised by [Dr. Pavel Čížek](https://www.tilburguniversity.edu/staff/p-cizek) and [Dr. Otilia Boldea](https://sites.google.com/site/otiliaboldea/).
+
+##### Primary research field
+
+* Econometric Theory
+
+##### Second research field
+
+* dynamic panel data; GMM; local projection; moment selections.
 
 ---
